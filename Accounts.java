@@ -1,16 +1,14 @@
 public class Accounts {
-    String test;
+    
 
+    int accountId;
+    int accountNumber;
+    double balance;
+    String date;
+    String status;
+    int ownerId;
 
-public Accounts() {
-    test="tested";
-}
-
-
- public static void main (String [] args) {
-    Accounts acc = new Accounts();
-    System.out.println(acc.test);
- }
+    
 
 }
 
