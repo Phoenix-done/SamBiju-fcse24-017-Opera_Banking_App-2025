@@ -1,0 +1,10 @@
+public class Run {
+    public static void main(String[] args) {
+        var conn = DBConnector.connect();
+        if (conn != null) {
+            System.out.println("Connected to SQLite.");
+        } else {
+            System.out.println("Connection failed.");
+        }
+    }
+}
