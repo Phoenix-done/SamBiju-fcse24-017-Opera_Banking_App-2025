@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class SupabaseConnect {
     public static void main(String[] args) {
-        String url = "jdbc:postgresql://<host>:5432/<db>?sslmode=require";
+        String url = "https://cipibeuiqcsqrprpekuz.supabase.co";
         String user = "<user>";
         String password = "<password>";
 
