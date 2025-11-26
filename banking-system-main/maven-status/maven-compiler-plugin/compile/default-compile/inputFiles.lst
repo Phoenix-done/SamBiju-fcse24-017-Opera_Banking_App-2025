@@ -1,0 +1,16 @@
+/workspaces/banking-system/src/model/AccountOperations.java
+/workspaces/banking-system/src/model/Customer.java
+/workspaces/banking-system/src/model/SavingsAccount.java
+/workspaces/banking-system/src/util/DatabaseConnection.java
+/workspaces/banking-system/src/model/ChequeAccount.java
+/workspaces/banking-system/src/view/BankingWebController.java
+/workspaces/banking-system/src/model/Account.java
+/workspaces/banking-system/src/dao/AccountDAO.java
+/workspaces/banking-system/src/view/ConsoleView.java
+/workspaces/banking-system/src/dao/TransactionDAO.java
+/workspaces/banking-system/src/util/AccountNumberGenerator.java
+/workspaces/banking-system/src/view/BankingApplication.java
+/workspaces/banking-system/src/model/InvestmentAccount.java
+/workspaces/banking-system/src/model/Transaction.java
+/workspaces/banking-system/src/controller/BankingController.java
+/workspaces/banking-system/src/dao/CustomerDAO.java
